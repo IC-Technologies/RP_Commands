@@ -1,1 +1,1 @@
-1.0.1~;~None
+1.1.0~;~Updated Config and added more Locale options + new version checker!
