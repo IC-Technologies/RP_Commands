@@ -1,1 +1,1 @@
-1.1.0~;~Updated Config and added more Locale options + new version checker!
+1.2.0~;~New config.lua, locale.lua and discord_config.lua are required! Adds custom command arguments, per command permissions and cooldowns, a whisper command, drag and drop postals, and many fixes.
